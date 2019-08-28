@@ -23,5 +23,5 @@ public class PojoClass {
 		Empname = empname;
 	}
 
-	System.ot.println("There is no sysout above");
+	System.out.println("There is no sysout above");
 }
